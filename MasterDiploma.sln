@@ -1,8 +1,106 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles-Author1", "01_ulearn_rectangles\author1\Rectangles-Author1.csproj", "{E8B0D136-D22F-4550-A136-BB577FCBEC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles-Author2", "01_ulearn_rectangles\author2\Rectangles-Author2.csproj", "{E8B0D136-D22F-4550-A136-BB577FCBEC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralize-Author1", "02_ulearn_pluralize\author1\Pluralize-Author1.csproj", "{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralize-Author2", "02_ulearn_pluralize\author2\Pluralize-Author2.csproj", "{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralize-Author3", "02_ulearn_pluralize\author3\Pluralize-Author3.csproj", "{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author1", "03_ulearn_distance\author1\Distance-Author1.csproj", "{A7607F62-2517-4779-84D4-3D378809A97E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author2", "03_ulearn_distance\author2\Distance-Author2.csproj", "{A7607F62-2517-4779-84D4-3D378809A97E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author3", "03_ulearn_distance\author3\Distance-Author3.csproj", "{A7607F62-2517-4779-84D4-3D378809A97E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazes-Author1", "04_ulearn_mazes\author1\Mazes-Author1.csproj", "{84C0439A-B05A-4BFC-A73E-BA1F99953814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazes-Author2", "04_ulearn_mazes\author2\Mazes-Author2.csproj", "{84C0439A-B05A-4BFC-A73E-BA1F99953814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazes-Author3", "04_ulearn_mazes\author3\Mazes-Author3.csproj", "{84C0439A-B05A-4BFC-A73E-BA1F99953814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author1", "05_ulearn_names\author1\Names-Author1.csproj", "{616230F0-26C5-4954-8A86-827F1C3E72ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author2", "05_ulearn_names\author2\Names-Author2.csproj", "{616230F0-26C5-4954-8A86-827F1C3E72ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author3", "05_ulearn_names\author3\Names-Author3.csproj", "{616230F0-26C5-4954-8A86-827F1C3E72ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author4", "05_ulearn_names\author4\Names-Author4.csproj", "{616230F0-26C5-4954-8A86-827F1C3E72ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author1", "06_ulearn_text_analysis\author1\TextAnalysis-Author1.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author2", "06_ulearn_text_analysis\author2\TextAnalysis-Author2.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author3", "06_ulearn_text_analysis\author3\TextAnalysis-Author3.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author4", "06_ulearn_text_analysis\author4\TextAnalysis-Author4.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image-Author1", "07_ulearn_images\author1\Image-Author1.csproj", "{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image-Author2", "07_ulearn_images\author2\Image-Author2.csproj", "{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image-Author3", "07_ulearn_images\author3\Image-Author3.csproj", "{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image-Author4", "07_ulearn_images\author4\Image-Author4.csproj", "{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwords-Author1", "08_ulearn_passwords\author1\Passwords-Author1.csproj", "{574D2475-B777-4830-8D0C-4FA3FA7CD08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwords-Author2", "08_ulearn_passwords\author2\Passwords-Author2.csproj", "{574D2475-B777-4830-8D0C-4FA3FA7CD08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwords-Author3", "08_ulearn_passwords\author3\Passwords-Author3.csproj", "{574D2475-B777-4830-8D0C-4FA3FA7CD08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwords-Author4", "08_ulearn_passwords\author4\Passwords-Author4.csproj", "{574D2475-B777-4830-8D0C-4FA3FA7CD08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocomplete-Author1", "09_ulearn_autocomplete\author1\Autocomplete-Author1.csproj", "{F849C260-0712-4D37-9273-ADB46B8DCCFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocomplete-Author2", "09_ulearn_autocomplete\author2\Autocomplete-Author2.csproj", "{F849C260-0712-4D37-9273-ADB46B8DCCFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocomplete-Author4", "09_ulearn_autocomplete\author4\Autocomplete-Author4.csproj", "{F849C260-0712-4D37-9273-ADB46B8DCCFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8B0D136-D22F-4550-A136-BB577FCBEC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B0D136-D22F-4550-A136-BB577FCBEC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B0D136-D22F-4550-A136-BB577FCBEC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B0D136-D22F-4550-A136-BB577FCBEC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7607F62-2517-4779-84D4-3D378809A97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7607F62-2517-4779-84D4-3D378809A97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7607F62-2517-4779-84D4-3D378809A97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7607F62-2517-4779-84D4-3D378809A97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C0439A-B05A-4BFC-A73E-BA1F99953814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C0439A-B05A-4BFC-A73E-BA1F99953814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C0439A-B05A-4BFC-A73E-BA1F99953814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C0439A-B05A-4BFC-A73E-BA1F99953814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616230F0-26C5-4954-8A86-827F1C3E72ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616230F0-26C5-4954-8A86-827F1C3E72ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616230F0-26C5-4954-8A86-827F1C3E72ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616230F0-26C5-4954-8A86-827F1C3E72ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574D2475-B777-4830-8D0C-4FA3FA7CD08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574D2475-B777-4830-8D0C-4FA3FA7CD08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574D2475-B777-4830-8D0C-4FA3FA7CD08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574D2475-B777-4830-8D0C-4FA3FA7CD08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F849C260-0712-4D37-9273-ADB46B8DCCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F849C260-0712-4D37-9273-ADB46B8DCCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F849C260-0712-4D37-9273-ADB46B8DCCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F849C260-0712-4D37-9273-ADB46B8DCCFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
