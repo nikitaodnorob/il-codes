@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F849C260-0712-4D37-9273-ADB46B8DCCFB}</ProjectGuid>
+    <ProjectGuid>{A017424B-B7FA-4F66-BE5A-C6F7CB3DF7FC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Autocomplete</RootNamespace>
