@@ -62,6 +62,7 @@
     <Compile Include="LongestCommonSubsequenceCalculator.cs" />
     <Compile Include="LongestCommonSubsequenceCalculator_Tests.cs" />
     <Compile Include="ComparisonResult.cs" />
+    <Content Include="my_release.il" />
     <Content Include="SuspiciousSources\2.cs" />
     <Content Include="SuspiciousSources\1.cs" />
     <Content Include="SuspiciousSources\5.cs" />
