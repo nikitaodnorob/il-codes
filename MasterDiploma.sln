@@ -104,6 +104,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazes-Author2-NetCore3", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazes-Author3-NetCore3", "04_ulearn_mazes\author3-netcore3\Mazes-Author3-NetCore3.csproj", "{12E3EA44-EC6B-4FB9-9D64-6200EF6378BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author1-Refactored", "05_ulearn_names\author1-refactored\Names-Author1-Refactored.csproj", "{6C57F635-CD3B-49B2-B3CF-503360906E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author2-Refactored", "05_ulearn_names\author2-refactored\Names-Author2-Refactored.csproj", "{C8426FD0-2966-4AB8-85A3-81D32854BE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author3-Refactored", "05_ulearn_names\author3-refactored\Names-Author3-Refactored.csproj", "{DAB54566-AC01-44A7-93A9-0B404D8C1AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names-Author4-Refactored", "05_ulearn_names\author4-refactored\Names-Author4-Refactored.csproj", "{BDC3B272-AEB9-4378-BC09-11DAA5D89D6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -234,5 +242,21 @@ Global
 		{12E3EA44-EC6B-4FB9-9D64-6200EF6378BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12E3EA44-EC6B-4FB9-9D64-6200EF6378BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12E3EA44-EC6B-4FB9-9D64-6200EF6378BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C57F635-CD3B-49B2-B3CF-503360906E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C57F635-CD3B-49B2-B3CF-503360906E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C57F635-CD3B-49B2-B3CF-503360906E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C57F635-CD3B-49B2-B3CF-503360906E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8426FD0-2966-4AB8-85A3-81D32854BE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8426FD0-2966-4AB8-85A3-81D32854BE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8426FD0-2966-4AB8-85A3-81D32854BE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8426FD0-2966-4AB8-85A3-81D32854BE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB54566-AC01-44A7-93A9-0B404D8C1AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB54566-AC01-44A7-93A9-0B404D8C1AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB54566-AC01-44A7-93A9-0B404D8C1AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB54566-AC01-44A7-93A9-0B404D8C1AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC3B272-AEB9-4378-BC09-11DAA5D89D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC3B272-AEB9-4378-BC09-11DAA5D89D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC3B272-AEB9-4378-BC09-11DAA5D89D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC3B272-AEB9-4378-BC09-11DAA5D89D6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
