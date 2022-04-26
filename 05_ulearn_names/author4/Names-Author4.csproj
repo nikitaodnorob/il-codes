@@ -64,7 +64,7 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="his_release.il" />
+    <Content Include="my_release.il" />
     <Content Include="names.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
