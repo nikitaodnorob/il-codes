@@ -231,31 +231,6 @@
   } // end of method EmptyMazeTask::MoveOut
 } // end of class Mazes.EmptyMazeTask
 
-// Type: Mazes.PyramidMazeTask 
-// Assembly: Mazes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 9CCD0506-5C28-4F96-A87B-A527029D24ED
-// Location: D:\Windows\Desktop\диссертация\il codes\ulearn\04 mazes\03_release_mycompiler.exe
-// Sequence point data from decompiler
-
-.class public abstract sealed auto ansi beforefieldinit
-  Mazes.PyramidMazeTask
-    extends [mscorlib]System.Object
-{
-
-  .method public hidebysig static void
-    MoveOut(
-      class Mazes.Robot robot,
-      int32 width,
-      int32 height
-    ) cil managed
-  {
-    .maxstack 8
-
-    IL_0000: ret
-
-  } // end of method PyramidMazeTask::MoveOut
-} // end of class Mazes.PyramidMazeTask
-
 // Type: Mazes.SnakeMazeTask 
 // Assembly: Mazes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 // MVID: 9CCD0506-5C28-4F96-A87B-A527029D24ED

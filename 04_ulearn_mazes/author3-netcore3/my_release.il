@@ -231,31 +231,6 @@
   } // end of method EmptyMazeTask::MoveOut
 } // end of class Mazes.EmptyMazeTask
 
-// Type: Mazes.PyramidMazeTask 
-// Assembly: Mazes-Author3-NetCore3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 31D8C468-748E-4587-B6F6-2264BE658A73
-// Location: D:\Windows\Desktop\MasterDiploma\MasterDiploma\04_ulearn_mazes\author3-netcore3\bin\Release\netcoreapp3.1\Mazes-Author3-NetCore3.dll
-// Sequence point data from decompiler
-
-.class public abstract sealed auto ansi beforefieldinit
-  Mazes.PyramidMazeTask
-    extends [System.Runtime]System.Object
-{
-
-  .method public hidebysig static void
-    MoveOut(
-      class Mazes.Robot robot,
-      int32 width,
-      int32 height
-    ) cil managed
-  {
-    .maxstack 8
-
-    IL_0000: ret
-
-  } // end of method PyramidMazeTask::MoveOut
-} // end of class Mazes.PyramidMazeTask
-
 // Type: Mazes.SnakeMazeTask 
 // Assembly: Mazes-Author3-NetCore3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 // MVID: 31D8C468-748E-4587-B6F6-2264BE658A73

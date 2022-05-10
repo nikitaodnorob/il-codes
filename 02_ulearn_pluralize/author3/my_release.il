@@ -49,11 +49,11 @@
     IL_0023: ldc.i4.s     10 // 0x0a
     IL_0025: rem
     IL_0026: ldc.i4.1
-    IL_0027: bne.un.s     IL_002f
+    IL_0027: beq.s     IL_002f
 
-    IL_0029: ldstr        "рубль"
+    IL_0029: ldstr        "рубля"
     IL_002e: ret
-    IL_002f: ldstr        "рубля"
+    IL_002f: ldstr        "рубль"
     IL_0034: ret
 
   } // end of method PluralizeTask::PluralizeRubles
