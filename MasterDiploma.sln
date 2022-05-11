@@ -124,6 +124,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussianAlgorithm-Author1-R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocomplete-Author1-Refactored", "09_ulearn_autocomplete\author1-refactored\Autocomplete-Author1-Refactored.csproj", "{B51876DF-E5F4-451D-AC0F-0AB16ACAC44D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles-Author5-Net6_Builder", "01_ulearn_rectangles\author5-net6_builder\Rectangles-Author5-Net6_Builder.csproj", "{E4BF9AA5-123E-48C0-9997-8D1E6D8880EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles-Author6-Net6_Singleton", "01_ulearn_rectangles\author6-net6_singleton\Rectangles-Author6-Net6_Singleton.csproj", "{8095634B-C4F1-4AFF-99BA-26F9ED87BF72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles-Author7-Net6_Factory", "01_ulearn_rectangles\author7-net6_factory\Rectangles-Author7-Net6_Factory.csproj", "{56B8359C-3830-45F3-B8A4-ED5C7FA90E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralize-Author5-Net6_Builder", "02_ulearn_pluralize\author5-net6_builder\Pluralize-Author5-Net6_Builder.csproj", "{E4C33F47-8324-4129-A752-11AC29BB964F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralize-Author6-Net6_Singleton", "02_ulearn_pluralize\author6-net6_singleton\Pluralize-Author6-Net6_Singleton.csproj", "{F069630F-D56F-41EF-B3CE-DB33A17E1ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralize-Author7-Net6_Factory", "02_ulearn_pluralize\author7-net6_factory\Pluralize-Author7-Net6_Factory.csproj", "{E8ED446D-2B8B-402B-91AB-EB3F5787445A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author5-Net6_Builder", "03_ulearn_distance\author5-net6_builder\Distance-Author5-Net6_Builder.csproj", "{A566E547-323B-4600-ABFA-599805FBF1CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author6-Net6_Singleton", "03_ulearn_distance\author6-net6_singleton\Distance-Author6-Net6_Singleton.csproj", "{1561DABF-70B6-48B5-97C9-996A3713BFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author7-Net6_Factory", "03_ulearn_distance\author7-net6_factory\Distance-Author7-Net6_Factory.csproj", "{E99AC835-8419-48CF-ADDE-34C8E760FC1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -278,5 +296,41 @@ Global
 		{B51876DF-E5F4-451D-AC0F-0AB16ACAC44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B51876DF-E5F4-451D-AC0F-0AB16ACAC44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B51876DF-E5F4-451D-AC0F-0AB16ACAC44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BF9AA5-123E-48C0-9997-8D1E6D8880EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BF9AA5-123E-48C0-9997-8D1E6D8880EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BF9AA5-123E-48C0-9997-8D1E6D8880EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BF9AA5-123E-48C0-9997-8D1E6D8880EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8095634B-C4F1-4AFF-99BA-26F9ED87BF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8095634B-C4F1-4AFF-99BA-26F9ED87BF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8095634B-C4F1-4AFF-99BA-26F9ED87BF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8095634B-C4F1-4AFF-99BA-26F9ED87BF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B8359C-3830-45F3-B8A4-ED5C7FA90E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B8359C-3830-45F3-B8A4-ED5C7FA90E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B8359C-3830-45F3-B8A4-ED5C7FA90E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B8359C-3830-45F3-B8A4-ED5C7FA90E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C33F47-8324-4129-A752-11AC29BB964F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C33F47-8324-4129-A752-11AC29BB964F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C33F47-8324-4129-A752-11AC29BB964F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C33F47-8324-4129-A752-11AC29BB964F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F069630F-D56F-41EF-B3CE-DB33A17E1ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F069630F-D56F-41EF-B3CE-DB33A17E1ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F069630F-D56F-41EF-B3CE-DB33A17E1ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F069630F-D56F-41EF-B3CE-DB33A17E1ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8ED446D-2B8B-402B-91AB-EB3F5787445A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8ED446D-2B8B-402B-91AB-EB3F5787445A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8ED446D-2B8B-402B-91AB-EB3F5787445A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8ED446D-2B8B-402B-91AB-EB3F5787445A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A566E547-323B-4600-ABFA-599805FBF1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A566E547-323B-4600-ABFA-599805FBF1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A566E547-323B-4600-ABFA-599805FBF1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A566E547-323B-4600-ABFA-599805FBF1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1561DABF-70B6-48B5-97C9-996A3713BFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1561DABF-70B6-48B5-97C9-996A3713BFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1561DABF-70B6-48B5-97C9-996A3713BFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1561DABF-70B6-48B5-97C9-996A3713BFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99AC835-8419-48CF-ADDE-34C8E760FC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99AC835-8419-48CF-ADDE-34C8E760FC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99AC835-8419-48CF-ADDE-34C8E760FC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99AC835-8419-48CF-ADDE-34C8E760FC1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
