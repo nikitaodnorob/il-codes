@@ -142,6 +142,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author6-Net6_Singl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Author7-Net6_Factory", "03_ulearn_distance\author7-net6_factory\Distance-Author7-Net6_Factory.csproj", "{E99AC835-8419-48CF-ADDE-34C8E760FC1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussianAlgorithm-Author6-Net6_Singleton", "12_ulearn_gauss\author6-net6_singleton\GaussianAlgorithm-Author6-Net6_Singleton.csproj", "{EC0D1019-3B3C-421C-A710-1A547132249F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antiplagiarism-Author6-Net6_Singleton", "11_ulearn_antiplagiat\author6-net6_singleton\Antiplagiarism-Author6-Net6_Singleton.csproj", "{28EAE9B7-9606-4F0E-805D-34651E5C0C58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -332,5 +336,13 @@ Global
 		{E99AC835-8419-48CF-ADDE-34C8E760FC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E99AC835-8419-48CF-ADDE-34C8E760FC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E99AC835-8419-48CF-ADDE-34C8E760FC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0D1019-3B3C-421C-A710-1A547132249F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0D1019-3B3C-421C-A710-1A547132249F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0D1019-3B3C-421C-A710-1A547132249F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0D1019-3B3C-421C-A710-1A547132249F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28EAE9B7-9606-4F0E-805D-34651E5C0C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EAE9B7-9606-4F0E-805D-34651E5C0C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EAE9B7-9606-4F0E-805D-34651E5C0C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EAE9B7-9606-4F0E-805D-34651E5C0C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
