@@ -36,7 +36,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author2", "06_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author3", "06_ulearn_text_analysis\author3\TextAnalysis-Author3.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author4", "06_ulearn_text_analysis\author4\TextAnalysis-Author4.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis-Author4", "06_ulearn_text_analysis\author1-refactored\TextAnalysis-Author4.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image-Author1", "07_ulearn_images\author1\Image-Author1.csproj", "{B5EBAB5F-AFCC-4169-8F68-5EB41871441A}"
 EndProject
